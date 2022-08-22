@@ -1,18 +1,5 @@
 {
-  "/": "https://wessex.live/1",
-
-  "1": "https://gms.englandhockey.co.uk/fixtures-and-results/competitions.php?comp=4144407",
-  "2": "https://gms.englandhockey.co.uk/fixtures-and-results/competitions.php?comp=4144605",
-  "3": "https://gms.englandhockey.co.uk/fixtures-and-results/competitions.php?comp=4144709",
-  "4": "https://gms.englandhockey.co.uk/fixtures-and-results/competitions.php?comp=4144803",
-  "5": "https://gms.englandhockey.co.uk/fixtures-and-results/competitions.php?comp=4142409",
-
-  "1bucs": "https://bucs.playwaze.com/hockey-21-22/549qq6hqwjv6dl/league-display/ir5te4g8pnogfs",
-  "2bucs": "https://bucs.playwaze.com/hockey-21-22/549qq6hqwjv6dl/league-display/nvieaogcli",
-  "3bucs": "https://bucs.playwaze.com/hockey-21-22/549qq6hqwjv6dl/league-display/d7wsdwvuep",
-  "4bucs": "https://bucs.playwaze.com/hockey-21-22/549qq6hqwjv6dl/league-display/d7wsdwvuep",
-  "5bucs": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-
+  "fantasy":"https://southampton-uni.fantasyclubhockey.co.uk",
   "shop": "https://stc-stores.com/collections/southampton-university-mens-hockey",
   "varsity":"https://boxoffice.susu.org/view/379/varsity"
-  }
+}
